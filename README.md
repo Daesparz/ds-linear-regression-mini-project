@@ -1,4 +1,4 @@
-Regression in Python
+# Regression in Python
 
 This is a very quick run-through of some basic statistical concepts, adapted from Lab 4 in Harvard's CS109 course. 
 
